@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "ES2020",
+    "module": "ES6",
+    "declaration": true,
+    "declarationDir": "dist",
+    "strict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true
+  }
+}
